@@ -20,7 +20,7 @@
 <p align="left"> 
   Im a software engineering graduate from University of Alberta  <br>
   - 🔭 I’m currently looking for my next work opportunity and I'm available for hire <br>
-  - 📚 At the moment, I'm learning Game Design, Reinforcment learning and Rust  <br>
+  - 📚 At the moment, I'm learning Game Design, Reinforcment Learning and Rust  <br>
   - ⚡ In my free time I like to make music, watch movies and learn new things
 </p>
 

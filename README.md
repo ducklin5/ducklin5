@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ducklin5/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="200" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ducklin5/github-stats/master/generated/languages.svg#gh-light-mode-onl" height="200" alt="streak graph"  />  
+  <img src="https://raw.githubusercontent.com/ducklin5/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200" alt="streak graph"  />  
 </div>
 
 ###
